@@ -1,6 +1,5 @@
 #include <ncurses.h>
 #include <stdlib.h>
-#include <stdio.h>
 #include <time.h>
 
 #define NUM_PEDIDOS 4
