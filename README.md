@@ -44,6 +44,7 @@ ncurses.h
   Biblioteca gráfica.
 
 
+
 compilando:
 
 gcc pizzaria.c -lncurses
