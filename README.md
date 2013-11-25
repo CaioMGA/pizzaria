@@ -41,7 +41,7 @@ time.h
       assim, o numero a ser jogado para rand() se torna previsivel, mas variavel
 
 ncurses.h
-  Biblioteca gráfica.
+  Biblioteca gráfica. É necessário instalar.
 
 
 
